@@ -21,7 +21,7 @@ docker installed
     npm i
     npm start
 
-# Test test
+# To test
 
    curl http://localhost:8080/nz
 
@@ -29,4 +29,4 @@ docker installed
 
    curl http://localhost:8080/nz
 
-    You should see Hello your distribution channel is nz
+   You should see Hello your distribution channel is nz
